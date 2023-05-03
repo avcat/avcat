@@ -1,17 +1,17 @@
+### 🦸‍♂️ Front-end / Wordpress Developer
+
 <table>
 	<tr valign="middle" align="center">
-		<td>Currently mastering</td>
-		<td>💪🏻</td>
+		<td>Currently mastering 📚</td>
 		<td><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></td>
 	</tr>
 	<tr valign="middle" align="center">
-		<td>I also like</td>
-		<td>❤️</td>
+		<td>I also like ❤️</td>
 		<td><img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"></td>
 	</tr>
 </table>
 
-### 💻 Tech Stack / Experience:
+### 💻 Tech Stack / Experience
 
 <table>
 	<tr>
@@ -19,7 +19,6 @@
 		<td>
 			<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 			<img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white">
-			<svg xmlns="http://www.w3.org/2000/svg" height="30" viewBox="0 0 24 24" stroke-width="2.5" stroke="#4ebc8b" stroke-linecap="round" stroke-linejoin="round" fill="none"><path stroke="none" d="M0 0h24v24H0z"/><polyline points="7 7 12 12 7 17" /><polyline points="13 7 18 12 13 17" /></svg>
 			<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 		</td>
 	</tr>
@@ -42,21 +41,23 @@
 	</tr>
 	<tr>
 		<td align="center">
-			<img height="24" src="/ico-nodejs.svg">
+			<img height="24" src="./icons/ico-nodejs.svg">
 			<br>
 			Ecosystem
 		</td>
 		<td>
+			<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 			<img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
 		</td>
 	</tr>
 	<tr>
 		<td align="center">
-			<img height="24" src="/ico-wordpress.svg">
+			<img height="24" src="./icons/ico-wordpress.svg">
 			<br>
 			Ecosystem
 		</td>
 		<td>
+			<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
 			<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 			<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 			<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -75,10 +76,26 @@
 	</tr>
 	<tr>
 		<td align="center">
-			Other Tools
+			Databases
 		</td>
 		<td>
+			<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 			<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			Hostings
+		</td>
+		<td>
+			<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			CSS Libraries
+		</td>
+		<td>
 			<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 		</td>
 	</tr>
@@ -87,16 +104,92 @@
 			Organization /<br> Communication
 		</td>
 		<td>
+			<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+			<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+			<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+			<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 			<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 			<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 		</td>
 	</tr>
 </table>
 
-### 🌐 You can also find me in:
+### 📁 Portfolio
+
+<table>
+	<tr>
+		<td width="50%" style="background-color: hsl(334,66%,50%);">
+			<details>
+				<summary><img src="./portfolio-logos/homesweethome.png"></summary>
+				<div><img src="./portfolio-screenshots/homesweethome.png"></div>
+			</details>
+		</td>
+		<td width="50%">
+			<details>
+				<summary><img src="./portfolio-logos/flormar.png"></summary>
+				<div><img src="./portfolio-screenshots/flormar.png"></div>
+			</details>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" style="background-color: #093127;">
+			<details>
+				<summary><img src="./portfolio-logos/kadorr-city.png"></summary>
+				<div><img src="./portfolio-screenshots/kadorr-city.png"></div>
+			</details>
+		</td>
+		<td width="50%">
+			<details>
+				<summary><img src="./portfolio-logos/bavaria.png"></summary>
+				<div><img src="./portfolio-screenshots/bavaria.png"></div>
+			</details>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<details>
+				<summary><img src="./portfolio-logos/keentegro.png"></summary>
+				<div><img src="./portfolio-screenshots/keentegro.png"></div>
+			</details>
+		</td>
+		<td width="50%">
+			<details>
+				<summary><img src="./portfolio-logos/medspa.png"></summary>
+				<div><img src="./portfolio-screenshots/medspa.png"></div>
+			</details>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<details>
+				<summary><img src="./portfolio-logos/delicate.png"></summary>
+				<div><img src="./portfolio-screenshots/delicate.png"></div>
+			</details>
+		</td>
+		<td width="50%" style="background-color: #8D00F6;">
+			<details>
+				<summary><img src="./portfolio-logos/beitgrand.png"></summary>
+				<div><img src="./portfolio-screenshots/beitgrand.png"></div>
+			</details>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" style="background-color: #427d1e;">
+			<details>
+				<summary><img src="./portfolio-logos/grili.png"></summary>
+				<div><img src="./portfolio-screenshots/grili.png"></div>
+			</details>
+		</td>
+		<td width="50%" align="center">To be continued...</td>
+	</tr>
+</table>
+
+### 🌐 You can find me in
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vodolazskyi)
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=ArkadiiVodolazskyi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArkadiiVodolazskyi&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkadiiVodolazskyi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
