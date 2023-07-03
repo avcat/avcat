@@ -116,9 +116,12 @@
 
 ### 📁 Portfolio
 
+<!-- TODO: add links to sites to logos -->
+<!-- TODO: check background-color -->
+<!-- TODO: check table cell paddings -->
 <table>
 	<tr>
-		<td width="50%" style="background-color: hsl(334,66%,50%);">
+		<td width="50%">
 			<details>
 				<summary><img src="./portfolio-logos/homesweethome.png"></summary>
 				<div><img src="./portfolio-screenshots/homesweethome.png"></div>
@@ -132,7 +135,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td width="50%" style="background-color: #093127;">
+		<td width="50%">
 			<details>
 				<summary><img src="./portfolio-logos/kadorr-city.png"></summary>
 				<div><img src="./portfolio-screenshots/kadorr-city.png"></div>
@@ -166,7 +169,7 @@
 				<div><img src="./portfolio-screenshots/delicate.png"></div>
 			</details>
 		</td>
-		<td width="50%" style="background-color: #8D00F6;">
+		<td width="50%">
 			<details>
 				<summary><img src="./portfolio-logos/beitgrand.png"></summary>
 				<div><img src="./portfolio-screenshots/beitgrand.png"></div>
@@ -174,13 +177,21 @@
 		</td>
 	</tr>
 	<tr>
-		<td width="50%" style="background-color: #427d1e;">
+		<td width="50%">
 			<details>
 				<summary><img src="./portfolio-logos/grili.png"></summary>
 				<div><img src="./portfolio-screenshots/grili.png"></div>
 			</details>
 		</td>
-		<td width="50%" align="center">To be continued...</td>
+		<td width="50%">
+		<details>
+				<summary><img src="./portfolio-logos/bella-systech.png"></summary>
+				<div><img src="./portfolio-screenshots/bella-systech.png"></div>
+			</details>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" align="center" colspan="2">To be continued...</td>
 	</tr>
 </table>
 
