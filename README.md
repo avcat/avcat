@@ -58,7 +58,6 @@
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
-			<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 			<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 			<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 			<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
@@ -71,7 +70,6 @@
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-			<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
 		</td>
 	</tr>
 	<tr>
@@ -81,14 +79,6 @@
 		<td>
 			<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 			<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			Hostings
-		</td>
-		<td>
-			<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 		</td>
 	</tr>
 	<tr>
@@ -116,91 +106,88 @@
 
 ### 📁 Portfolio
 
-<!-- TODO: add links to sites to logos -->
-<!-- TODO: check background-color -->
-<!-- TODO: check table cell paddings -->
 <table>
 	<tr>
-		<td width="50%">
-			<details>
-				<summary><img src="./portfolio-logos/homesweethome.png"></summary>
-				<div><img src="./portfolio-screenshots/homesweethome.png"></div>
-			</details>
+		<td width="25%" align="center">
+			<a href="https://hsh.kiev.ua/">
+				<img height="80" src="./portfolio-logos/homesweethome.png">
+				<div>Home Sweet Home</div>
+			</a>
 		</td>
-		<td width="50%">
-			<details>
-				<summary><img src="./portfolio-logos/flormar.png"></summary>
-				<div><img src="./portfolio-screenshots/flormar.png"></div>
-			</details>
+		<td width="25%" align="center">
+			<a href="https://flormar.co.il/">
+				<img height="80" src="./portfolio-logos/flormar.png">
+				<div>Flormar</div>
+			</a>
 		</td>
-	</tr>
-	<tr>
-		<td width="50%">
-			<details>
-				<summary><img src="./portfolio-logos/kadorr-city.png"></summary>
-				<div><img src="./portfolio-screenshots/kadorr-city.png"></div>
-			</details>
+		<td width="25%" align="center">
+			<a href="https://bavaria.od.ua/">
+				<img height="80" src="./portfolio-logos/bavaria.png">
+				<div>Bavaria</div>
+			</a>
 		</td>
-		<td width="50%">
-			<details>
-				<summary><img src="./portfolio-logos/bavaria.png"></summary>
-				<div><img src="./portfolio-screenshots/bavaria.png"></div>
-			</details>
+		<td width="25%" align="center">
+			<a href="https://www.keentegro.com/">
+				<img height="80" src="./portfolio-logos/keentegro.png">
+				<div>Keentegro</div>
+			</a>
 		</td>
 	</tr>
 	<tr>
-		<td width="50%">
-			<details>
-				<summary><img src="./portfolio-logos/keentegro.png"></summary>
-				<div><img src="./portfolio-screenshots/keentegro.png"></div>
-			</details>
+		<td align="center">
+			<a href="https://med-spa.od.ua/">
+				<img height="80" src="./portfolio-logos/medspa.png">
+				<div>MedSpa</div>
+			</a>
 		</td>
-		<td width="50%">
-			<details>
-				<summary><img src="./portfolio-logos/medspa.png"></summary>
-				<div><img src="./portfolio-screenshots/medspa.png"></div>
-			</details>
+		<td align="center">
+			<a href="https://beit-grand.odessa.ua/">
+				<img height="80" src="./portfolio-logos/beitgrand.png">
+				<div>Beit Grand</div>
+			</a>
 		</td>
-	</tr>
-	<tr>
-		<td width="50%">
-			<details>
-				<summary><img src="./portfolio-logos/delicate.png"></summary>
-				<div><img src="./portfolio-screenshots/delicate.png"></div>
-			</details>
+		<td align="center">
+			<a href="https://grili.com.ua/">
+				<img height="80" src="./portfolio-logos/grili.png">
+				<div>Grili</div>
+			</a>
 		</td>
-		<td width="50%">
-			<details>
-				<summary><img src="./portfolio-logos/beitgrand.png"></summary>
-				<div><img src="./portfolio-screenshots/beitgrand.png"></div>
-			</details>
+		<td align="center">
+			<a href="https://bellaesthetic.com.ua/">
+				<img height="60" src="./portfolio-logos/bella-systech.png">
+				<div>Bella Systech</div>
+			</a>
 		</td>
 	</tr>
 	<tr>
-		<td width="50%">
-			<details>
-				<summary><img src="./portfolio-logos/grili.png"></summary>
-				<div><img src="./portfolio-screenshots/grili.png"></div>
-			</details>
+		<td align="center">
+			<a href="http://citydom.od.ua/">
+				<img height="80" src="./portfolio-logos/kadorr-city.png">
+			</a>
+			<div>
+				<a href="http://citydom.od.ua/">Kadorr City</a> / 
+				<a href="https://avcat.github.io/City-House/">GitHub</a>
+			</div>
 		</td>
-		<td width="50%">
-		<details>
-				<summary><img src="./portfolio-logos/bella-systech.png"></summary>
-				<div><img src="./portfolio-screenshots/bella-systech.png"></div>
-			</details>
+		<td align="center">
+			<a href="http://delicate.od.ua/">
+				<img height="80" src="./portfolio-logos/delicate.png">
+			</a>
+			<div>
+				<a href="http://delicate.od.ua/">Delicate</a> / 
+				<a href="https://avcat.github.io/Delicate/">GitHub</a>
+			</div>
 		</td>
-	</tr>
-	<tr>
-		<td width="50%" align="center" colspan="2">To be continued...</td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 
 ### 🌐 You can find me in
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vodolazskyi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avcat)
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=avcat&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=avcat&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avcat&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avcat&theme=transparent&hide_border=true&layout=pie)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=avcat&theme=transparent&hide_border=true)
