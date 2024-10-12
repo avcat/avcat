@@ -37,6 +37,7 @@
 			<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 			<img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white">
 			<img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454">
+			<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
 		</td>
 	</tr>
 	<tr>
@@ -101,85 +102,6 @@
 			<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 			<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 		</td>
-	</tr>
-</table>
-
-### 📁 Portfolio
-
-<table>
-	<tr>
-		<td width="25%" align="center">
-			<a href="https://hsh.kiev.ua/">
-				<img height="80" src="./portfolio-logos/homesweethome.png">
-				<div>Home Sweet Home</div>
-			</a>
-		</td>
-		<td width="25%" align="center">
-			<a href="https://flormar.co.il/">
-				<img height="80" src="./portfolio-logos/flormar.png">
-				<div>Flormar</div>
-			</a>
-		</td>
-		<td width="25%" align="center">
-			<a href="https://bavaria.od.ua/">
-				<img height="80" src="./portfolio-logos/bavaria.png">
-				<div>Bavaria</div>
-			</a>
-		</td>
-		<td width="25%" align="center">
-			<a href="https://www.keentegro.com/">
-				<img height="80" src="./portfolio-logos/keentegro.png">
-				<div>Keentegro</div>
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<a href="https://med-spa.od.ua/">
-				<img height="80" src="./portfolio-logos/medspa.png">
-				<div>MedSpa</div>
-			</a>
-		</td>
-		<td align="center">
-			<a href="https://beit-grand.odessa.ua/">
-				<img height="80" src="./portfolio-logos/beitgrand.png">
-				<div>Beit Grand</div>
-			</a>
-		</td>
-		<td align="center">
-			<a href="https://grili.com.ua/">
-				<img height="80" src="./portfolio-logos/grili.png">
-				<div>Grili</div>
-			</a>
-		</td>
-		<td align="center">
-			<a href="https://bellaesthetic.com.ua/">
-				<img height="60" src="./portfolio-logos/bella-systech.png">
-				<div>Bella Systech</div>
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<a href="http://citydom.od.ua/">
-				<img height="80" src="./portfolio-logos/kadorr-city.png">
-			</a>
-			<div>
-				<a href="http://citydom.od.ua/">Kadorr City</a> / 
-				<a href="https://avcat.github.io/City-House/">GitHub</a>
-			</div>
-		</td>
-		<td align="center">
-			<a href="http://delicate.od.ua/">
-				<img height="80" src="./portfolio-logos/delicate.png">
-			</a>
-			<div>
-				<a href="http://delicate.od.ua/">Delicate</a> / 
-				<a href="https://avcat.github.io/Delicate/">GitHub</a>
-			</div>
-		</td>
-		<td></td>
-		<td></td>
 	</tr>
 </table>
 
